@@ -6,6 +6,7 @@ port = 8080
 class MyHttpHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         if self.path == "/":
+            # TODO: real "redirect"
             self.path = "/index.html"
             super().do_GET()
         else:
