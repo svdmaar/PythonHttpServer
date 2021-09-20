@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonHttpServer", "PythonHttpServer.pyproj", "{28EB4A16-3A9E-49F9-A7C7-6279A3C590A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EB4A16-3A9E-49F9-A7C7-6279A3C590A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EB4A16-3A9E-49F9-A7C7-6279A3C590A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA8E0E8-D3A3-40FE-9A15-73B12581D787}
+	EndGlobalSection
+EndGlobal
